@@ -1,4 +1,8 @@
 test1
 dobavil text
 branch 1
+<<<<<<< HEAD
 error123
+=======
+error0987tw2
+>>>>>>> Second_branch
